@@ -1,0 +1,117 @@
+{
+    "DO_NOT_EDIT_THIS": "DO NOT EDIT THIS",
+    "20161216_EA": [
+        {
+            "Key": "dormroom",
+            "Name": "Dorm Room",
+            "ImageName": "Dorm2017.png"
+        },
+        {
+            "Key": "lockerroom",
+            "Name": "Locker Room",
+            "ImageName": "LockerRoom.png"
+        },
+        {
+            "Key": "paintball",
+            "Name": "Paintball: River",
+            "ImageName": "River.png"
+        },
+        {
+            "Key": "paintball2_open",
+            "Name": "Paintball: Homestead",
+            "ImageName": "Homestead.png"
+        },
+        {
+            "Key": "Paintball_Castle",
+            "Name": "Paintball: Quarry",
+            "ImageName": "Quarry.png"
+        },
+        {
+            "Key": "discgolf",
+            "Name": "Disc Golf",
+            "ImageName": "Lake.png"
+        },
+        {
+            "Key": "charades",
+            "Name": "Charades",
+            "ImageName": "Charades.png"
+        },
+        {
+            "Key": "paddleball",
+            "Name": "Paddleball",
+            "ImageName": "Paddleball.png"
+        },
+        {
+            "Key": "dodgeball",
+            "Name": "Dodgeball",
+            "ImageName": "Dodgeball.png"
+        },
+        {
+            "Key": "soccer",
+            "Name": "Shield Soccer",
+            "ImageName": "Soccer.png"
+        }
+    ],
+    "20170209_EA": [
+        {
+            "Key": "dormroom",
+            "Name": "Dorm Room",
+            "ImageName": "Dorm2017.png"
+        },
+        {
+            "Key": "lockerroom",
+            "Name": "Locker Room",
+            "ImageName": "LockerRoom.png"
+        },
+        {
+            "Key": "paintball",
+            "Name": "Paintball: River",
+            "ImageName": "River.png"
+        },
+        {
+            "Key": "paintball2_open",
+            "Name": "Paintball: Homestead",
+            "ImageName": "Homestead.png"
+        },
+        {
+            "Key": "Paintball_Castle",
+            "Name": "Paintball: Quarry",
+            "ImageName": "Quarry.png"
+        },
+        {
+            "Key": "discgolf",
+            "Name": "Disc Golf",
+            "ImageName": "Lake.png"
+        },
+        {
+            "Key": "charades",
+            "Name": "Charades",
+            "ImageName": "Charades.png"
+        },
+        {
+            "Key": "paddleball",
+            "Name": "Paddleball",
+            "ImageName": "Paddleball.png"
+        },
+        {
+            "Key": "dodgeball",
+            "Name": "Dodgeball",
+            "ImageName": "Dodgeball.png"
+        },
+        {
+            "Key": "soccer",
+            "Name": "Shield Soccer",
+            "ImageName": "Soccer.png"
+        },
+        {
+            "Key": "eventroom",
+            "Name": "Lounge",
+            "ImageName": "Lounge.png"
+        },
+	    {
+            "Key": "Quest",
+            "Name": "Golden Trophy",
+            "ImageName": "GoldenTrophy.png"
+        }
+    ]
+}

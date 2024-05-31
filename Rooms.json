@@ -1,0 +1,98 @@
+[
+    {
+      "Room": {
+        "RoomId": 1,
+        "Name": "RecCenter",
+        "Description": "VisualRec Room",
+        "ImageName": "test.png",
+        "CreatorPlayerId": 1,
+        "State": 0,
+        "Accessibility": 1,
+        "SupportsLevelVoting": false,
+        "IsAGRoom": true,
+        "IsDormRoom": false,
+        "CloningAllowed": false,
+        "SupportsVRLow": true,
+        "SupportsScreens": true,
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true,
+        "AllowsJuniors": true,
+        "RoomWarningMask": 0,
+        "CustomRoomWarning": "",
+        "DisableMicAutoMute": true
+      },
+      "Scenes": [
+        {
+          "RoomSceneId": 1,
+          "RoomId": 1,
+          "RoomSceneLocationId": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+          "Location": "cbad71af-0831-44d8-b8ef-69edafa841f6",
+          "Name": "Home",
+          "IsSandbox": false,
+          "DataBlobName": "",
+          "MaxPlayers": 20,
+          "CanMatchmakeInto": true,
+          "DataModifiedAt": ""
+        }
+      ],
+      "CoOwners": [],
+      "InvitedCoOwners": [],
+      "InvitedModerators": [],
+      "Moderators": [],
+      "Hosts": [],
+      "InvitedHosts": [],
+      "CheerCount": 1,
+      "LocalPlayerRole": 3,
+      "FavoriteCount": 1,
+      "VisitCount": 1,
+      "Tags": []
+    },
+    {
+      "Room": {
+        "RoomId": 1024,
+        "Name": "DormRoom",
+        "Description": "Your own private room to prepare for a big day in Rec Room!",
+        "ImageName": "DormRoom.png",
+        "CreatorPlayerId": 1,
+        "State": 0,
+        "Accessibility": 1,
+        "SupportsLevelVoting": false,
+        "IsAGRoom": true,
+        "IsDormRoom": true,
+        "CloningAllowed": false,
+        "SupportsVRLow": true,
+        "SupportsScreens": true,
+        "SupportsWalkVR": true,
+        "SupportsTeleportVR": true,
+        "AllowsJuniors": false,
+        "RoomWarningMask": 0,
+        "CustomRoomWarning": "",
+        "DisableMicAutoMute": false
+      },
+      "Scenes": [
+        {
+          "RoomSceneId": 1,
+          "RoomId": 1024,
+          "RoomSceneLocationId": "76d98498-60a1-430c-ab76-b54a29b7a163",
+          "Location": "76d98498-60a1-430c-ab76-b54a29b7a163",
+          "Name": "Home",
+          "IsSandbox": true,
+          "DataBlobName": null,
+          "MaxPlayers": 4,
+          "CanMatchmakeInto": true,
+          "DataModifiedAt": ""
+        }
+      ],
+      "CoOwners": [],
+      "InvitedCoOwners": [],
+      "InvitedModerators": [],
+      "Moderators": [],
+      "Hosts": [],
+      "InvitedHosts": [],
+      "CheerCount": 1,
+      "LocalPlayerRole": 3,
+      "FavoriteCount": 1,
+      "VisitCount": 1,
+      "Tags": []
+    }
+  ]
